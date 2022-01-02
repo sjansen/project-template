@@ -1,0 +1,5 @@
+[project]
+  [project.name]
+    required = true
+  [project.owner]
+    required = false
